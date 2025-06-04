@@ -27,8 +27,7 @@ CREATE TABLE spotify (
     most_played_on VARCHAR(50)
 );
 
--- EDA 
-select count(*) as rows from spotify;
+
 
 
 
